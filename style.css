@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color: black;
+    display: inline-block;
+    width: 100px;
+    background-color: white;
+}
+h1{
+    color:grey;
+}
